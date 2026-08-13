@@ -1,6 +1,6 @@
 # Hi, I'm Nae 👋
 
-**Computer Science Student · Aspiring ML / AI Engineer**
+**Computer Science Student · Aspiring ML Engineer**
 
 I'm interested in **Machine Learning, Data Science, Deep Learning, and AI Engineering**.
 Currently focused on building practical ML systems and improving my skills in **production-oriented AI/ML development**.
