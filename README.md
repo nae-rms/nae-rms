@@ -1,6 +1,6 @@
 # Hi, I'm Nae 👋
 
-**Computer Science Student · Aspiring ML Engineer**
+**Computer Science Student · Aspiring Data Scientist | ML Engineer**
 
 I'm interested in **Machine Learning, Data Science, Deep Learning, and AI Engineering**.
 Currently focused on building practical ML systems and improving my skills in **production-oriented AI/ML development**.
@@ -45,7 +45,7 @@ Currently focused on building practical ML systems and improving my skills in **
 
 ### 🎯 Goal
 
-Building toward a career in **Machine Learning / AI Engineering**, with a focus on developing reliable and deployable AI systems.
+Building toward a career in **Data Science & Machine Learning Engineering**, with a focus on developing reliable and deployable AI systems.
 
 ---
 
