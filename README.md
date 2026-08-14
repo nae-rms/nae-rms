@@ -51,4 +51,4 @@ Building toward a career in **Data Science & Machine Learning Engineering**, wit
 
 ### 📫 Connect
 
-[GitHub](https://github.com/nae-rms)
+[Linkedin](https://www.linkedin.com/in/nae-rms/)
