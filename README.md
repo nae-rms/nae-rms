@@ -1,54 +1,51 @@
-# Hi, I'm Nae 👋
+# Hi, I'm Nae
 
-**Computer Science Student · Aspiring Data Scientist | ML Engineer**
+**Computer Science Student · Web Development · Data Science & Machine Learning**
 
-I'm interested in **Machine Learning, Data Science, Deep Learning, and AI Engineering**.
-Currently focused on building practical ML systems and improving my skills in **production-oriented AI/ML development**.
+I'm interested in **building web applications and working with data and machine learning**.  
+I'm currently exploring how these areas come together to build applications that are both **useful and data-driven**.
 
-### 🧠 Interests
+### Interests
 
-* Machine Learning & Data Science
-* Deep Learning
-* AI Engineering
-* MLOps & ML Systems
-* Data Analysis & Visualization
+- Web Development & Full-Stack Applications
+- Data Science & Data Analysis
+- Machine Learning
+- AI & Deep Learning
+- ML-powered Applications
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-**Data & ML**
+**Web Development**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Engineering**
+**Data & Machine Learning**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=github-actions\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-**Currently Learning**
+**Backend & Tools**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat\&logo=huggingface\&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-### 🌱 Currently Learning
 
-`PyTorch` · `Deep Learning` · `Transformers` · `LLMs` · `RAG` · `MLOps` · `Cloud`
+### Goal
 
-### 🎯 Goal
-
-Building toward a career in **Data Science & Machine Learning Engineering**, with a focus on developing reliable and deployable AI systems.
+Develop strong skills across **web development, data science, and machine learning**, and eventually build applications that combine the three.
 
 ---
 
-### 📫 Connect
+### Connect
 
-[Linkedin](https://www.linkedin.com/in/nae-rms/)
+[LinkedIn](https://www.linkedin.com/in/nae-rms/)
