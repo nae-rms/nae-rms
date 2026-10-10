@@ -1,17 +1,17 @@
 # Hi, I'm Nae
 
-**Computer Science Student · Web Development · Data Science & Machine Learning**
+**Computer Science Student · Machine Learning · Data Science · Backend Development**
 
-I'm interested in **building web applications and working with data and machine learning**.  
-I'm currently exploring how these areas come together to build applications that are both **useful and data-driven**.
+I'm interested in **machine learning, data science, and backend development**.  
+I'm currently exploring how these areas come together to build systems that are **reliable, scalable, and data-driven**.
 
 ### Interests
 
-- Web Development & Full-Stack Applications
-- Data Science & Data Analysis
 - Machine Learning
+- Data Science & Data Analysis
 - AI & Deep Learning
-- ML-powered Applications
+- Backend Development & APIs
+- Deploying ML Models as Services
 
 ### Tech Stack
 
@@ -19,13 +19,6 @@ I'm currently exploring how these areas come together to build applications that
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Web Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Data & Machine Learning**
 
@@ -39,10 +32,9 @@ I'm currently exploring how these areas come together to build applications that
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-
 ### Goal
 
-Develop strong skills across **web development, data science, and machine learning**, and eventually build applications that combine the three.
+Develop strong skills in **machine learning, data science, and backend development**, and eventually build and deploy data-driven systems and ML-powered services.
 
 ---
 
